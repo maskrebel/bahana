@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Tentang Kami - Bahana</title>
+  <title class="titleContainer"></title>
   <link rel="shortcut icon" href="static/img/logo.png" />
   <link rel="canonical" href="#" />
   <meta name="description" value="" />
@@ -29,28 +29,25 @@
         <div class="menu">
           <ul>
               <li>
-                  <a href="#">Pengadaan</a>
+                  <a class="menu1" href="#"></a>
               </li>
               <li>
-                  <a href="#">Customer Portal</a>
+                  <a class="menu2" href="#"></a>
               </li>
               <li>
-                  <a href="#">PPID</a>
+                  <a class="menu3" href="#"></a>
               </li>
               <li>
-                  <a href="#">Karir</a>
+                  <a class="menu4" href="#"></a>
               </li>
               <li>
-                  <a href="#">Kontak</a>
+                  <a class="menu5" href="#"></a>
               </li>
           </ul>
         </div>
         <div class="right-section">
-<!--          <a href="https://bahanagentasamodra-int.com/lang/id" class="btn btn-language active">ID</a>-->
-<!--          <a href="https://bahanagentasamodra-int.com/lang/en" class="btn btn-language ">EN</a>-->
-<!--          <a href="#" class="btn btn-search" data-toggle="modal" data-target="#mod-search">-->
-<!--            <img src="https://bahanagentasamodra-int.com/common/images/icon-search.png" alt="icon search">-->
-<!--          </a>-->
+          <a id="lang_id" onclick="getContent('id')" class="btn btn-language">ID</a>
+          <a id="lang_en" onclick="getContent('en')" class="btn btn-language ">EN</a>
         </div>
       </nav>
       <div class="collapse navbar-collapse" id="second-nav">
@@ -154,48 +151,55 @@
     </div>
   </nav>
 
-  <div id="header"></div>
-  <div id="footer" class="">
-      <div class="container">
-          <div class="row">
-              <div class="col-lg-4 col-md-6">
-                  <p class="official mb-4">KANTOR PUSAT</p>
-                  <p class="address">
-                      PT Pelabuhan Indonesia (Persero) <br />
-                      Jl. Pasoso No.1, Tanjung Priok, Jakarta Utara, 14310, Indonesia
-                  </p>
-                  <ul class="href-footer mt-5">
-                      <li>
-                        <a href="#"><i class="fas fa-envelope mr-1"></i>info@bahanagentasamodra-int.com</a>
-                    </li>
-                  </ul>
-              </div>
-              <div class="col-lg-4 col-md-6">
-                  <p class="official mb-4">LINK TERKAIT</p>
-                  <ul class="href-footer mt-5">
-                      <li><a href="http://www.bumn.go.id/" target=_blank>Kementrian BUMN RI</a></li>
-                      <li><a href="http://www.dephub.go.id/" target=_blank>Kementrian Perhubungan RI</a></li>
-                      <li><a href="https://maritimemuseum.id/" target=_blank>Museum Maritim Indonesia</a></li>
-                      <li><a href="" ></a></li>
-                      <li><a href="" ></a></li>
-                  </ul>
-              </div>
-              <div class="col-lg-4 col-md-6">
-                  <p class="official mb-4">SOCIAL MEDIA</p>
-                  <div class="sosmed">
-                      <a href="https://twitter.com/" target="_blank" class="twitter-sosmed"><i class="fab fa-twitter" aria-hidden="true"></i></a>
-                      <a href="https://www.facebook.com/" target="_blank" class="facebook-sosmed"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
-                      <a href="https://www.instagram.com/" target="_blank" class="instagram-sosmed"><i class="fab fa-instagram" aria-hidden="true"></i></a>
-                      <a href="https://www.youtube.com/" target="_blank" class="youtube-sosmed"><i class="fab fa-youtube"aria-hidden="true"></i></a>
-                  </div>
-              </div>
-          </div>
-      </div>
+  <div id="header">
+      <div class="header-image" style="background-image: url(static/img/slide-show.jpg)"></div>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-6 board-title text-center">
+                    <h1 class="titleContainer"></h1>
+                </div>
+            </div>
+        </div>
+        <div class="my-4 py-5 long-pargraph-layout">
+            <section class="my-4">
+                <div class="container-custom">
+                    <h1 class="font-weight-bold">Connecting the globe with the world&#039;s largest archipelago</h1>
+                </div>
+            </section>
+            <section>
+                <div class="container-custom mb-5">
+                    <div class="content">
+                        <p style="text-align: justify;"><span class="content1"></span></p>
+                        <p style="text-align: justify;"><span class="content2"></span></p>
+                        <p style="text-align: justify;"><span class="content3"></span></p>
+                        <p style="text-align: justify;"><span class="content4"></span></p>
+                        <p style="text-align: justify;"><span class="content5"></span></p>
+                        <p style="text-align: justify;"><span class="content6"></span></p>
+                        <ol>
+                            <li style="text-align: justify;">
+                                <p><span class="content7"></span></p>
+                            </li>
+                            <li style="text-align: justify;">
+                                <p><span class="content8"></span></p>
+                            </li>
+                            <li style="text-align: justify;">
+                                <p><span class="content9"></span></p>
+                            </li>
+                            <li>
+                                <p style="text-align: justify;"><span class="content10"></span></p>
+                            </li>
+                        </ol>
+                    </div>
+                </div>
+            </section>
+        </div>
   </div>
+  <div id="footer" class=""></div>
   <script src="static/js/jquery-3.2.1.min.js"></script>
   <script src="static/js/popper.min.js"></script>
   <script src="static/js/bootstrap.min.js"></script>
-  <script src="static/js/route.js"></script>
+  <script src="static/js/lang.js"></script>
+  <script src="static/templates/footer.js"></script>
 </body>
 
 </html>

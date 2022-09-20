@@ -1,0 +1,46 @@
+{
+  "id": {
+    "Header": {
+      "menu1": "Pengadaan",
+      "menu2": "Customer Portal",
+      "menu3": "PPID",
+      "menu4": "Karir",
+      "menu5": "Kontak"
+    },
+    "AboutUs": {
+      "titleContainer": "TENTANG KAMI",
+      "content1": "Berbasis di negara kepulauan terbesar dengan sejarah panjang pengaruh maritimnya di dunia, Pelabuhan Indonesia (Bahana) adalah pelabuhan kelas dunia yang menawarkan anda layanan terintegrasi antar pelabuhan di Indonesia. Bahana merupakan perusahaan hasil integrasi dari empat (4) BUMN pelabuhan yaitu PT Bahana I (Persero), PT Bahana II (Persero), PT Bahana III (Persero) dan PT Bahana IV (Persero) yang resmi berdiri pada tanggal 1 Oktober 2021.",
+      "content2": "Berdirinya Bahana sebagai perusahaan hasil integrasi ini adalah inisiatif strategis pemerintah selaku pemegang saham untuk mewujudkan konektivitas nasional dan jaringan ekosistem logistik yang lebih kuat. Konektivitas maritim -baik keterhubungan antar pelabuhan- pelabuhan di dalam negeri, maupun antara pelabuhan di dalam dan luar negeri- akan meningkat.",
+      "content3": "Dengan memiliki kendali strategis yang lebih baik dan didukung oleh kemampuan finansial yang kuat, operasional bisnis Bahana menjadi lebih terkoordinasi, terstandar dan efisien sehingga akan memberi keuntungan bagi masyarakat khususnya pengguna jasa Bahana.",
+      "content4": "Integrasi Bahana akan menciptakan sinergi satu BUMN Pelabuhan dengan standarisasi operasional dan proses bisnis yang lebih efisien. Kinerja pelabuhan kemudian akan meningkat yang berdampak pada kesejahteraan sosial dan ekonomi nasional.",
+      "content5": "Integrasi Bahana akan membuat efisiensi operasional di seluruh pelabuhan nasional, dengan standarisasi teknologi informasi. Integrasi juga membuat kendali strategis yang lebih baik dalam perencanaan keseluruhan untuk jaringan, pengurangan biaya logistik, dan meningkatkan infrastruktur dan kapasitas.",
+      "content6": "Untuk menjalankan bisnisnya, Bahana ditunjang oleh 4 unit bisnis yaitu:",
+      "content7": "Bahana Terminal Petikemas",
+      "content8": "Bahana Multi Terminal",
+      "content9": "Bahana Jasa Maritim",
+      "content10": "Bahana Solusi Logistik"
+    }
+  },
+  "en": {
+    "Header": {
+      "menu1": "Procurement",
+      "menu2": "Customer Portal",
+      "menu3": "PPID",
+      "menu4": "Careers",
+      "menu5": "Contacts"
+    },
+    "AboutUs": {
+      "titleContainer": "ABOUT US",
+      "content1": "Based in the largest archipelagic country with a long history of maritime influence in the world, Pelabuhan Indonesia (Bahana) is a world-class port that offers you integrated services between ports in Indonesia. Bahana is an integrated company from four (4) BUMN ports, namely PT Bahana I (Persero), PT Bahana II (Persero), PT Bahana III (Persero) and PT Bahana IV (Persero) which was officially established on October 1, 2021.",
+      "content2": "The establishment of Bahana as an integrated company is a strategic initiative of the government as a shareholder to realize a stronger national connectivity and logistics ecosystem network. Maritime connectivity -both the connectivity between ports in the country, as well as between ports at home and abroad - will increase.",
+      "content3": "By having better strategic control and supported by strong financial capabilities, Bahana's business operations become more coordinated, standardized and efficient so that it will benefit the community, especially the users of Bahana's services.",
+      "content4": "The integration of Bahana will create a synergy of one Port BUMN with operational standardization and more efficient business processes. Port performance will then increase which will have an impact on national social and economic welfare.",
+      "content5": "The Bahana integration will lead to operational efficiencies across all national ports, by standardizing information technology. The integration also provides better strategic control in overall planning for the network, reduces logistics costs, and improves infrastructure and capacity.",
+      "content6": "To run its business, Bahana is supported by 4 business units, namely:",
+      "content7": "Container Terminal Material",
+      "content8": "Multi Terminal Material",
+      "content9": "Maritime Services Materials",
+      "content10": "Materials for Logistics Solutions"
+    }
+  }
+}
